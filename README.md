@@ -26,5 +26,7 @@ index reads to cut cross-core atomic loads. Each version is benchmarked with
 
 ## CUDA GPU Renderer
 
-A GPU-accelerated 3D model renderer built with CUDA and C++.  
+A 3D software rasterizer implemented twice - once on the CPU with OpenMP across
+6 cores, once on the GPU with CUDA using tile-based deferred rendering across
+262,144 threads.
 [Dim-Sim7/CUDA-GPU-Renderer](https://github.com/Dim-Sim7/CUDA-GPU-Renderer)
