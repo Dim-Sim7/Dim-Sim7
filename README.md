@@ -2,7 +2,7 @@ Hi, I'm Dimitrije, a software engineering student at Curtin University in Perth 
 C++ and low-level programming.
 [Contact](mailto:dimitrijesmc@gmail.com)
 
-## PAST — CubeSat Telemetry Validation
+## PAST CubeSat Telemetry Validation
 
 A bare-metal STM32L4 firmware that encodes and transmits telemetry packets over UART,
 paired with a Python receiver that parses frames 
