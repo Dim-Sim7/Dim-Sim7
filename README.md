@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi, I'm Dimitrije, a software engineering student at Curtin University in Perth interested in
 C++ and low-level programming.
 [Contact](mailto:dimitrijesmc@gmail.com)
